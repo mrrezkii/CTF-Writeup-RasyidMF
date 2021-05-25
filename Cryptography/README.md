@@ -91,6 +91,21 @@ Flag : -.-. - ..-. .-. -- ----- .-. ... ...-- ..--.- -.-. ----- -.. ...-- ..--.-
 `ctfrm0rs3_c0d3_1s_aw3s0m3`
 
 Flag : CTFR{m0rs3_c0d3_1s_aw3s0m3}
+## Beli Rotan 13
+
+Mama Adi: "Di belikan mama Rotan"
+Adi: "Berapa mak ?"
+Mama Adi: "13 Aja di Pasar Pahlawan"
+Adi: "Uangnya mana mak?"
+Mama Adi: "Nih, PGSE{3i3e_u34eq_4obhg_e0g13?}"
+Adi: "Siap Mak!"
+
+#### Langkah dan Alat Pengerjaan
+1. Buka website [https://cryptii.com/](https://cryptii.com/)
+2. Pilih menu encode **ROT13**
+3. Copy-Paste Flag kedalam text
+
+Flag : CTFR{3v3r_h34rd_4bout_r0t13?}
 
 
 
