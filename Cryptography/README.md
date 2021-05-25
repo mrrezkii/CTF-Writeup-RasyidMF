@@ -145,11 +145,20 @@ Flag : 01000011 01010100 01000110 01010010 01111011 01100010 00110001 01101110 0
 #### Langkah dan Alat Pengerjaan
 1. Buka website https://www.rapidtables.com/convert/number/binary-to-ascii.html
 2. Copy-Paste Flag kedalam text
-`FLAG`
 
 Flag : CTFR{b1n4ry_1s_aw3s0m3}
 
+## Hexadecimal
 
+Heksadesimal atau sistem bilangan basis enam belas adalah sebuah sistem bilangan yang menggunakan 16 simbol. Berbeda dengan sistem bilangan desimal, simbol yang digunakan dari sistem ini adalah angka 0 sampai 9, ditambah dengan 6 simbol lainnya dengan menggunakan huruf A hingga F.
+
+Flag : 435446527b68337834643363316d346c5f31735f61773373306d337d
+
+#### Langkah dan Alat Pengerjaan
+1. Buka website https://www.rapidtables.com/convert/number/hex-to-ascii.html
+2. Copy-Paste Flag kedalam text
+
+Flag : CTFR{h3x4d3c1m4l_1s_aw3s0m3}
 
 
 
