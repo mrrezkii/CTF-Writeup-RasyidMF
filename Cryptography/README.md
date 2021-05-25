@@ -22,3 +22,20 @@ Semua Challenge ada Hint yang akan membantu kalian untuk menyelesaikan challenge
 
 Flag : CTFR{th1s_1s_your_f1rst_fl4g}
 
+## Second Flag
+
+Sebelumnya sudah mengenal yang namanya Encode dan Decode Yaah ? Sekarang masih sama, cuman jika kamu melihatnya challenge ini sebagai unik, maka pelajaran bagi anda :D.
+
+Flag : TKWI{j3t0eu_wc4x_n4j_t1gy3i_k3ok}
+
+#### Langkah dan Alat Pengerjaan
+1. Buka website [https://cryptii.com/](https://cryptii.com/)
+2. Pilih menu **Caesar chiper**
+3. Copy-Paste Flag kedalam text
+4. Tekan button (-) atau (+) sampai kondisi shift
+`9 a-> j`
+
+Flag : CTFR{s3c0nd_fl4g_w4s_c1ph3r_t3xt}
+
+
+
