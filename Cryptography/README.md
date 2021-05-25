@@ -234,4 +234,19 @@ Flag : 103 124 106 122 173 60 143 164 64 154 137 61 163 137 144 61 146 146 137 1
 `CTFR{0ct4l_1s_d1ff_w1th_d3c1m4l}`
 
 Flag : CTFR{0ct4l_1s_d1ff_w1th_d3c1m4l}
+## Pagar Rel
+
+Pagar Rel juga termasuk Cryptography loh, Cuman yaaa ada kesalahan sedikit tentang penulisan judul Challenge ini. Tapi sekalian bantuin decode ini yahh
+
+KO : 4
+Flag : Fl33TR1_c_hrC{4fncp}r31
+
+
+#### Langkah dan Alat Pengerjaan
+1. Buka website [https://cryptii.com/](https://cryptii.com/)
+2. Pilih menu decode **Rail fence cipher**
+3. KO = 4
+4. Copy-Paste Flag kedalam text
+
+Flag : CTFR{r41l_f3nc3_c1ph3r}
 
