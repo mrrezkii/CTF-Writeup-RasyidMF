@@ -76,7 +76,6 @@ Flag : INKEMUT3OMYW24DMGNPWENDTGNPTGMT5BI======
 3. Copy-Paste Flag kedalam text
 
 Flag : CTFR{s1mpl3_b4s3_32}
-
 ## Kode Mouse
 
 Mouse juga mempunyai kode untuk melakukan klik pada sebuah komputer, akan tetapi hal ini lah yang membuat komputer dapat bergerak, Tanpa mouse PC / Laptop kita tidak ada guna nya :). salah satunya coba decode ini, Flag Format nya harus tetap di ikuti ya!.
@@ -106,7 +105,21 @@ Adi: "Siap Mak!"
 3. Copy-Paste Flag kedalam text
 
 Flag : CTFR{3v3r_h34rd_4bout_r0t13?}
+## Bahasa Bayi
 
+Bahasa Bayi kira kria nya seperti ini kan ababaabababab, Nah jika sudah tau coba translate Bahasa Bayi yang satu ini
+
+Flag : aaaba baabb aabab baaab aaaab babaa ababa aaaaa abbab aaaab aaaaa aabbb aaaaa baaba aaaaa aaaab aaaaa bbaaa abaaa
+
+#### Langkah dan Alat Pengerjaan
+1. Buka website [https://cryptii.com/](https://cryptii.com/)
+2. Pilih menu encode **Bacon cipher**
+3. Pilih variant **Unique codes for each letter**
+3. Copy-Paste Flag kedalam text
+4. Hasilnya adalah
+`ctfrbukanbahasabayi`
+
+Flag : CTFR{bukanbahasabayi}
 
 
 
