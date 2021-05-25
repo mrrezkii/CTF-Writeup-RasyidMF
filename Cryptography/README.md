@@ -182,5 +182,16 @@ Flag : 67 84 70 82 123 52 115 99 49 49 95 99 48 100 51 125
 2. Copy-Paste Flag kedalam text
 
 Flag : CTFR{4sc11_c0d3}
+## Keyboard
+
+Keyboard merupakan Hardware yang membantu kita dalam menulis pada komputer. Tapi ketahuilah, dengan Keyboard kita sendiri dapat membuat enkripsi yang unik. Contohnya seperti "Ayam" akan menjadi "Sus,". Nah sampe sini sudah paham kan ? Coba Decode Flag dibawah ini dengan Trik yang sama seperti contoh diatas
+
+Flag : VYGT}l4un-5tf+dj2gy+2d+e42tfQ
+
+#### Langkah dan Alat Pengerjaan
+1. Buka website https://www.dcode.fr/keyboard-shift-cipher
+2. Copy-Paste Flag kedalam text
+
+Flag : CTFR{k3yb04rd_sh1ft_1s_w31rd}
 
 
