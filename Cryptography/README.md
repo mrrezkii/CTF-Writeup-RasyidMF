@@ -30,12 +30,29 @@ Flag : TKWI{j3t0eu_wc4x_n4j_t1gy3i_k3ok}
 
 #### Langkah dan Alat Pengerjaan
 1. Buka website [https://cryptii.com/](https://cryptii.com/)
-2. Pilih menu **Caesar chiper**
+2. Pilih menu encode **Caesar chiper**
 3. Copy-Paste Flag kedalam text
 4. Tekan button (-) atau (+) sampai kondisi shift
 `9 a-> j`
 
 Flag : CTFR{s3c0nd_fl4g_w4s_c1ph3r_t3xt}
+
+## Last Flag
+
+Ini adalah Last FLAG Challenge, Masih sama dengan Challenge sebelumnya. Akan tetapi hanya berbeda versi, Jika kamu baru dalam hal ini maka challenge ini dapat dijadikan pelajaran buat kamu :D.
+
+Flag : HEFX{q4dt_im4113yg3?}
+
+#### Langkah dan Alat Pengerjaan
+1. Buka website [https://cryptii.com/](https://cryptii.com/)
+2. Pilih menu decode **Vigenere chiper**
+3. Copy-Paste Flag kedalam text
+4. Masukkan key
+`FLAG`
+
+Flag : CTFR{l4st_ch4113ng3?}
+
+
 
 
 
