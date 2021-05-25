@@ -77,6 +77,20 @@ Flag : INKEMUT3OMYW24DMGNPWENDTGNPTGMT5BI======
 
 Flag : CTFR{s1mpl3_b4s3_32}
 
+## Kode Mouse
+
+Mouse juga mempunyai kode untuk melakukan klik pada sebuah komputer, akan tetapi hal ini lah yang membuat komputer dapat bergerak, Tanpa mouse PC / Laptop kita tidak ada guna nya :). salah satunya coba decode ini, Flag Format nya harus tetap di ikuti ya!.
+
+Flag : -.-. - ..-. .-. -- ----- .-. ... ...-- ..--.- -.-. ----- -.. ...-- ..--.- .---- ... ..--.- .- .-- ...-- ... ----- -- ...--
+
+#### Langkah dan Alat Pengerjaan
+1. Buka website [https://cryptii.com/](https://cryptii.com/)
+2. Pilih menu encode **Morse code**
+3. Copy-Paste Flag kedalam text
+4. Hasil yang didapat
+`ctfrm0rs3_c0d3_1s_aw3s0m3`
+
+Flag : CTFR{m0rs3_c0d3_1s_aw3s0m3}
 
 
 
