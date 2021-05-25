@@ -159,7 +159,17 @@ Flag : 435446527b68337834643363316d346c5f31735f61773373306d337d
 2. Copy-Paste Flag kedalam text
 
 Flag : CTFR{h3x4d3c1m4l_1s_aw3s0m3}
+## Reverse Text
 
+Pernah lihat huruf dan angka terbalik ? Contohnya seperti "Ayam" akan menjadi "mayA", Nah coba balikkan lagi teks ini agar mendapatkan flag yang benar.
+
+Flag : }3h3h_tx3t_3sr3v3r{RFTC
+
+#### Langkah dan Alat Pengerjaan
+1. Buka website http://spellbackwards.com/
+2. Copy-Paste Flag kedalam text
+
+Flag : CTFR{r3v3rs3_t3xt_h3h3}
 
 
 
