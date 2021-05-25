@@ -269,8 +269,20 @@ Flag : 051807153d347135197d3218273b72347621243
 
 
 #### Langkah dan Alat Pengerjaan
-1. Buka websitehttps://www.dcode.fr/xor-cipher
+1. Buka website https://www.dcode.fr/xor-cipher
 2. Copy-Paste Flag kedalam text
 3. Piluh menu `USE THE ASCII KEY` = `FLAG`
 
 Flag : CTFR{x0r_1s_aw3s0me}
+## MD5
+
+Dalam kriptografi, MD5 adalah fungsi hash kriptografik yang digunakan secara luas dengan hash value 128-bit. Pada standart Internet, MD5 telah dimanfaatkan secara bermacam-macam pada aplikasi keamanan, dan MD5 juga umum digunakan untuk melakukan pengujian integritas sebuah berkas.
+
+Flag : CTFR{(MD5 dari "CTFR")}
+
+
+#### Langkah dan Alat Pengerjaan
+1. Buka website https://www.md5online.org/md5-encrypt.html
+2. Hasil encrypt `d69faaea338ac0073602593fc9416f77`
+
+Flag : CTFR{d69faaea338ac0073602593fc9416f77}
