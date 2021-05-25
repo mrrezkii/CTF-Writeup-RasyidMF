@@ -51,6 +51,35 @@ Flag : HEFX{q4dt_im4113yg3?}
 `FLAG`
 
 Flag : CTFR{l4st_ch4113ng3?}
+## Dasar64
+
+Belum bisa menyelesaikan First Flag ? Silahkan cari tau bagaimana mengkonversi flag ini menjadi teks yang bisa di baca
+
+Flag : Q1RGUntzMW1wbDNfYjRzM182NH0=
+
+#### Langkah dan Alat Pengerjaan
+1. Buka website https://emn178.github.io/online-tools
+2. Pilih menu decode **Base64**
+3. Copy-Paste Flag kedalam text
+
+Flag : CTFR{s1mpl3_b4s3_64}
+
+## Dasar32
+
+Belum bisa menyelesaikan First Flag ? Silahkan cari tau bagaimana mengkonversi flag ini menjadi teks yang bisa di baca
+
+Flag : INKEMUT3OMYW24DMGNPWENDTGNPTGMT5BI======
+
+#### Langkah dan Alat Pengerjaan
+1. Buka website https://emn178.github.io/online-tools
+2. Pilih menu decode **Base32**
+3. Copy-Paste Flag kedalam text
+
+Flag : CTFR{s1mpl3_b4s3_32}
+
+
+
+
 
 
 
