@@ -84,7 +84,7 @@ Flag : -.-. - ..-. .-. -- ----- .-. ... ...-- ..--.- -.-. ----- -.. ...-- ..--.-
 
 #### Langkah dan Alat Pengerjaan
 1. Buka website [https://cryptii.com/](https://cryptii.com/)
-2. Pilih menu encode **Morse code**
+2. Pilih menu decode **Morse code**
 3. Copy-Paste Flag kedalam text
 4. Hasil yang didapat
 `ctfrm0rs3_c0d3_1s_aw3s0m3`
@@ -101,7 +101,7 @@ Adi: "Siap Mak!"
 
 #### Langkah dan Alat Pengerjaan
 1. Buka website [https://cryptii.com/](https://cryptii.com/)
-2. Pilih menu encode **ROT13**
+2. Pilih menu decode **ROT13**
 3. Copy-Paste Flag kedalam text
 
 Flag : CTFR{3v3r_h34rd_4bout_r0t13?}
@@ -113,13 +113,29 @@ Flag : aaaba baabb aabab baaab aaaab babaa ababa aaaaa abbab aaaab aaaaa aabbb a
 
 #### Langkah dan Alat Pengerjaan
 1. Buka website [https://cryptii.com/](https://cryptii.com/)
-2. Pilih menu encode **Bacon cipher**
+2. Pilih menu decode **Bacon cipher**
 3. Pilih variant **Unique codes for each letter**
 3. Copy-Paste Flag kedalam text
 4. Hasilnya adalah
 `ctfrbukanbahasabayi`
 
 Flag : CTFR{bukanbahasabayi}
+## Jual V-Gen Murah
+
+Saya jual V-Gen dengan harga Rp. 100,000, Tentunya ada Promo Diskon sebanyak 50% jika dapat mencocokan kata dibawah ini
+
+Key : FLAG
+Flag : HEFX{a1rn3x3_h1ah3x!!!}
+Kalo sudah bisa mencocokan, Silahkan pakai Diskonnya di Last Flag :D
+
+#### Langkah dan Alat Pengerjaan
+1. Buka website [https://cryptii.com/](https://cryptii.com/)
+2. Pilih menu decode **Vigenere chiper**
+3. Copy-Paste Flag kedalam text
+4. Masukkan key
+`FLAG`
+
+Flag : CTFR{v1gn3r3_c1ph3r!!!}
 
 
 
