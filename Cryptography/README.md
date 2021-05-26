@@ -326,5 +326,17 @@ Flag : CTFR{(SHA384 dari "CTFR")}
 2. Hasil encrypt `825d560bc11e550cf7441275c70372440d28353c68b5f03c2e95d88c956c74e499d7c8f08d18415e56566342bd91aba4`
 
 Flag : CTFR{825d560bc11e550cf7441275c70372440d28353c68b5f03c2e95d88c956c74e499d7c8f08d18415e56566342bd91aba4}
+## SHA512
+
+SHA atau Secure Hashing Algorithm merupakan fungsi kriptografi yang dirancang khusus oleh penyedia otoritas kemanan internet untuk menjaga keamanan data.
+
+Flag : CTFR{(SHA512 dari "CTFR")}
+
+#### Langkah dan Alat Pengerjaan
+1. Buka website https://emn178.github.io/online-tools/sha512.html
+2. Hasil encrypt `189c3a22d591747e3527773544712f8f3f11f23cdfa9fe3c163cce87bd4526f3343cbaefb445e6fb7d7b274167872efa34d9cc045572c8d3de4b76294745ca95`
+
+Flag : CTFR{189c3a22d591747e3527773544712f8f3f11f23cdfa9fe3c163cce87bd4526f3343cbaefb445e6fb7d7b274167872efa34d9cc045572c8d3de4b76294745ca95}
+
 
 
