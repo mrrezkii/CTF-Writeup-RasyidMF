@@ -419,5 +419,20 @@ Flag : iisiiiisiiioiiiiiiiiiiiiiiiiioddddddddddddddoiiiiiiiiiiiioiiiiiiiiiiiiiii
 2. Copy-paste kedalam text
 
 Flag : CTFR{s3j4k_k4p4n_1kan_puny4_b4h4s4}
+## AES #1
 
+Dalam kriptografi, Standar Enkripsi Lanjutan merupakan standar enkripsi dengan kunci simetris yang diadopsi oleh Pemerintah Amerika Serikat. Standar ini terdiri dari tiga penyandian blok, yaitu AES-128, AES-192, dan AES-256, yang diadopsi dari koleksi yang lebih besar yang awalnya diterbitkan sebagai Rijndael.
+
+Flag : c4ce1a9c4374553b59cb8a5820f9aaf4f9468344757f2ce845018c76312d201c
+Key : 1-90A-F
+
+
+#### Langkah dan Alat Pengerjaan
+1. Buka website https://www.devglan.com/online-tools/aes-encryption-decryption
+2. Pilih Input Text Format `Hex`
+3. Masukkan Secret Key `1234567890ABCDEF`
+4. Hasil decode Base64 `Q1RGUns0ZTVfM25jcnlwdDEwbl93NDVfM3hwM3J0fQ==`
+2. Decode kebentuk Plain text / ASCII
+
+Flag : CTFR{4e5_3ncrypt10n_w45_3xp3rt}
 
