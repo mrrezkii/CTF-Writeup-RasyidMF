@@ -286,3 +286,16 @@ Flag : CTFR{(MD5 dari "CTFR")}
 2. Hasil encrypt `d69faaea338ac0073602593fc9416f77`
 
 Flag : CTFR{d69faaea338ac0073602593fc9416f77}
+## SHA1
+
+
+Dalam kriptografi, SHA-1 adalah fungsi hash kriptografi yang mengambil input dan menghasilkan nilai hash 160-bit yang dikenal sebagai intisari pesan - biasanya dirender sebagai bilangan heksadesimal, panjangnya 40 digit.
+
+Flag : CTFR{(SHA1 dari "CTFR")}
+
+
+#### Langkah dan Alat Pengerjaan
+1. Buka website https://md5decrypt.net/en/Sha1
+2. Hasil encrypt `725912ce4ff578c4a9ece9821e7da02103276150`
+
+Flag : CTFR{725912ce4ff578c4a9ece9821e7da02103276150}
