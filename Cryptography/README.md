@@ -348,6 +348,19 @@ Flag : CTFR{(MD2 dari "CTFR")}
 2. Hasil encrypt `9e873a7d36f0b41bf51ecc79289c8b7c`
 
 Flag : CTFR{9e873a7d36f0b41bf51ecc79289c8b7c}
+## MD4
+
+MD4 Message-Digest Algorithm adalah fungsi hash kriptografi yang dikembangkan oleh Ronald Rivest pada tahun 1990. Panjang intinya adalah 128 bit. Algoritme telah mempengaruhi desain selanjutnya, seperti algoritma MD5, SHA-1 dan RIPEMD. Initialism "MD" adalah singkatan dari "Message Digest."
+
+Flag : CTFR{(MD4 dari "CTFR")}
+
+#### Langkah dan Alat Pengerjaan
+1. Buka website https://emn178.github.io/online-tools/md4.html
+2. Hasil encrypt `bcab8f1da86a260ce0fb2a2c027a0d6f`
+
+Flag : CTFR{bcab8f1da86a260ce0fb2a2c027a0d6f}
+
+
 
 
 
