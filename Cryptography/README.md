@@ -337,6 +337,18 @@ Flag : CTFR{(SHA512 dari "CTFR")}
 2. Hasil encrypt `189c3a22d591747e3527773544712f8f3f11f23cdfa9fe3c163cce87bd4526f3343cbaefb445e6fb7d7b274167872efa34d9cc045572c8d3de4b76294745ca95`
 
 Flag : CTFR{189c3a22d591747e3527773544712f8f3f11f23cdfa9fe3c163cce87bd4526f3343cbaefb445e6fb7d7b274167872efa34d9cc045572c8d3de4b76294745ca95}
+## MD2
+
+Algoritma Message-Digest MD2 adalah fungsi hash kriptografi yang dikembangkan oleh Ronald Rivest pada tahun 1989. Algoritma ini dioptimalkan untuk komputer 8-bit. MD2 ditetapkan dalam RFC 1319.
+
+Flag : CTFR{(MD2 dari "CTFR")}
+
+#### Langkah dan Alat Pengerjaan
+1. Buka website https://emn178.github.io/online-tools/md2.html
+2. Hasil encrypt `9e873a7d36f0b41bf51ecc79289c8b7c`
+
+Flag : CTFR{9e873a7d36f0b41bf51ecc79289c8b7c}
+
 
 
 
