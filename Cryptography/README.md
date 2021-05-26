@@ -299,3 +299,14 @@ Flag : CTFR{(SHA1 dari "CTFR")}
 2. Hasil encrypt `725912ce4ff578c4a9ece9821e7da02103276150`
 
 Flag : CTFR{725912ce4ff578c4a9ece9821e7da02103276150}
+## SHA256
+
+
+Secure Hash Algorithms adalah keluarga fungsi hash kriptografis yang diterbitkan oleh Institut Nasional Standar dan Teknologi sebagai Standar Pemrosesan Informasi Federal AS, termasuk: SHA-0: Retronym yang diterapkan pada versi asli dari fungsi hash 160-bit yang diterbitkan pada tahun 1993 dengan nama "SHA".
+
+
+#### Langkah dan Alat Pengerjaan
+1. Buka website https://emn178.github.io/online-tools/sha256.html
+2. Hasil encrypt `fa0bd9ce51434b585e2349c1f427b75b6e9337250b6b4692d453f2729f606bc4`
+
+Flag : CTFR{fa0bd9ce51434b585e2349c1f427b75b6e9337250b6b4692d453f2729f606bc4}
