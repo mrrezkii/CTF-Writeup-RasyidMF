@@ -359,6 +359,21 @@ Flag : CTFR{(MD4 dari "CTFR")}
 2. Hasil encrypt `bcab8f1da86a260ce0fb2a2c027a0d6f`
 
 Flag : CTFR{bcab8f1da86a260ce0fb2a2c027a0d6f}
+## Otak Bersetubuh
+
+Pernah dengar kagak tentang cara Otak Bersebutuh ? Kalo belum pernah, Coba cari di google maksudnya gimana. Eh bukan yang bahasa indonesia nya yaaa h3h3
+
+Flag : ++++++++++[>+>+++>+++++++>++++++++++<<<<-]>>>---.>----------------.<+++.>--.+++++++++++++++++++++++++++++++++++++++++.-------------------------.++++++++++++++++.<------------------.---.>----.---------------.+++++++.+++++++++++++++.------------------.++.++++++.------------.+++++++++.<++.>.<.>+++++++++++++++++++++.
+
+
+#### Langkah dan Alat Pengerjaan
+1. Buka website https://www.dcode.fr/brainfuck-language
+2. Copy-paste kedalam text
+
+Flag : CTFR{br41n_fucek_h3h3}
+
+
+
 
 
 
