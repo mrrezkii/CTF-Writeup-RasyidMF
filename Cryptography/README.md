@@ -467,4 +467,19 @@ Flag : A5Rz&{8Yh2@r;mkm]wuJu=}SUJR;uF `
 1. Buka website https://www.dcode.fr/base-91-encoding
 2. Copy-paste kedalam text
 
-Flag : CTFR{b453_s3mb1l4n_s4tu}s
+Flag : CTFR{b453_s3mb1l4n_s4tu}
+## Identify Hash
+
+Waktu jaman mimin Deface, mimin sering melihat Hash ini tersebar dimana-mana, Dikarenakan Password yang selalu diatur dengan default maka dari itu banyak website yang terjadi peretasan.
+
+Flag : CTFR{(MD5 yang sudah terbaiki)}
+Hash : 21232f297..7..a74..94a..4a8...c3
+
+#### Langkah dan Alat Pengerjaan
+1. Search `21232f297` kedalam google search image
+2. Cari hasil MD5 yang paling mendekati clue hash yang ada di atas
+3. Hasil yang ditampilakan `admin`
+4. Hasil tersebut encrypt kedalam M5 melakui website https://md5decrypt.net/en/
+5.  Hasilnya adalah `21232f297a57a5a743894a0e4a801fc3`
+
+Flag : CTFR{21232f297a57a5a743894a0e4a801fc3}
