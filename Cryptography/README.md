@@ -483,3 +483,18 @@ Hash : 21232f297..7..a74..94a..4a8...c3
 5.  Hasilnya adalah `21232f297a57a5a743894a0e4a801fc3`
 
 Flag : CTFR{21232f297a57a5a743894a0e4a801fc3}
+## Main Adil
+
+Yang namanya bermain harus main adil, tentunya tidak ada kecurangan.
+
+Cipher : N41IG4AOU4E1K
+K : CTFR
+Flag : CTFR{(Huruf Kapital)}
+
+#### Langkah dan Alat Pengerjaan
+1. Buka website https://www.boxentriq.com/code-breaking/playfair-cipher
+2. Copy-paste kedalam text
+3. Masukkan key `CTFR`
+4. Hasilnya adalah `M41NH4RUS4D1L`
+
+Flag : CTFR{M41NH4RUS4D1L}
