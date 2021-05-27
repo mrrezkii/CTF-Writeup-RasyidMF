@@ -457,3 +457,14 @@ Flag : :0U1&4GMU;F0T;F=?=6YD-&YG7S-N8S!D,WT` `
 2. Copy-paste flag kedalam text bagian decode
 
 Flag : CTFR{und4ng_und4ng_3nc0d3}
+## Base Coc
+
+Mimin sudah lama sih main COC (Clash of Clan) cuman bingung mau base yang kuat gimana, maka dari itu mimin saran kan pake base yang ada disini https://cocbases.com/
+
+Flag : A5Rz&{8Yh2@r;mkm]wuJu=}SUJR;uF `
+
+#### Langkah dan Alat Pengerjaan
+1. Buka website https://www.dcode.fr/base-91-encoding
+2. Copy-paste kedalam text
+
+Flag : CTFR{b453_s3mb1l4n_s4tu}s
