@@ -446,3 +446,14 @@ Flag : 7qhsC4GtbkKjfwkHwnbQTi/v0L9sAioOCmKxeUwMYUKKl/Ge8Tf+bQ==
 2. Copy-paste flag kedalam text bagian decode
 
 Flag : CTFR{pukul4n_1k4n_4l145_bl0w_f15h}
+## UU No 17
+
+UU tahun 2019 nomor 17 tentang Sumber Daya Air, Sebab air sebagai bagian dari sumber daya air merupakan cabang produksi penting dan menguasai hajat hidup orang banyak yang dikuasai oleh negara untuk dipergunakan bagi sebesar-besar kemakmuran rakyat sesuai dengan amanat Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
+
+Flag : :0U1&4GMU;F0T;F=?=6YD-&YG7S-N8S!D,WT` `
+
+#### Langkah dan Alat Pengerjaan
+1. Buka website http://uuencode.online-domain-tools.com/
+2. Copy-paste flag kedalam text bagian decode
+
+Flag : CTFR{und4ng_und4ng_3nc0d3}
