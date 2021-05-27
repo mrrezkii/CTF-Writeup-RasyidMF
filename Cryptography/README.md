@@ -435,4 +435,14 @@ Key : 1-90A-F
 2. Decode kebentuk Plain text / ASCII
 
 Flag : CTFR{4e5_3ncrypt10n_w45_3xp3rt}
+## Pukulan Ikan
 
+Kebayang gak kalo ikan bisa memukul dengan Sirip nya, Mimin aja susah ngebayangin :3
+
+Flag : 7qhsC4GtbkKjfwkHwnbQTi/v0L9sAioOCmKxeUwMYUKKl/Ge8Tf+bQ==
+
+#### Langkah dan Alat Pengerjaan
+1. Buka website https://encode-decode.com/blowfish-encrypt-online/
+2. Copy-paste flag kedalam text bagian decode
+
+Flag : CTFR{pukul4n_1k4n_4l145_bl0w_f15h}
