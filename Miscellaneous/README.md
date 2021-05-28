@@ -24,3 +24,13 @@ URL : [Baju Hoetam](https://mega.nz/file/UsgAVCiA#6lrmO410iG2cXgLhBsdjY4Wyi-3ixd
 4. Geser menggunakan arrow button
 
 Flag : CTFR{y0u_c4nt_s33_m3}
+## Hidden Flag #2
+
+Mimin juga menyembunyikan 1 flag yang sebenarnya sudah ada semenjak kalian merefresh page ini. Good Luck :D
+
+#### Langkah dan Alat Pengerjaan
+1. Inspect element pada soal 
+2. Masuk kebagian tab Application
+3. Expand di Local Storage
+
+Flag : CTFR{l0c4l_st0r4g3_1s_u5efu11}
