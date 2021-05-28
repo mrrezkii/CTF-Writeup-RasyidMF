@@ -537,7 +537,6 @@ MIICdwIBADANBgkqhkiG9w0BAQEFAASCAmEwggJdAgEAAoGBAIJoNABCRA0SIbPmin4KFjKcNtGJ3fNV
 Flag : CTFR{rs4_3ncrypt10n_1s_aw3s0m3}
 ## Surat Untuk Teman
 
-
 Mimin ketemu surat dari orang lain nih, Coba di baca deh
 
 Flag : 
@@ -585,3 +584,35 @@ of our offer .
 2. Copy-paste kedalam text
 
 Flag : CTFR{sp4m_m3ss4g3}
+## Total Penghasilan
+
+Penghasilan perbulan mimin ditulis sebagai teks, Coba cari tauu dong arti penghasilan mimin :D
+
+Flag : 
+> Expenses
+Meals,$3.83
+Office Supplies,$2.96
+Phone,$277.19
+Snacks,$96.58
+Maintenance,$2.10
+Electricity,$3.79
+Lodging,$3.98
+Transportation,$3245.70
+Gas,$3.64
+Insurance,$522.26
+Motor Vehicle,$333.37
+Property Tax,$803.35
+Mortgage Interest,$808.90
+Loan Interest,$59.30
+Security Alarm,$547.82
+Cooling,$5.26
+Bank Fees,$40.77
+Advertising,$15.93
+
+
+#### Langkah dan Alat Pengerjaan
+1. Buka website https://www.spammimic.com/decode.shtml
+2. Pilih dibagian spreadsheet
+2. Copy-paste kedalam text
+
+Flag : CTFR{f4k3_t4x1_3h_1_m34n_spr34dsh33t}
